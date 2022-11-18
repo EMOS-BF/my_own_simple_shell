@@ -1,0 +1,9 @@
+# ninja log v5
+4	298	6901335846999634	CMakeFiles/shell_projet.dir/main.c.obj	179904f906c77bcc
+299	1320	6901335857210374	shell_projet.exe	9dae3f29610dc01b
+23	293	6901335846928609	CMakeFiles/shell_projet.dir/prompt.c.obj	820133771327b836
+169	1562	6904287246842923	CMakeFiles/shell_projet.dir/source.c.obj	8a2283f4cc27fa33
+140	1692	6904287247484415	CMakeFiles/shell_projet.dir/prompt.c.obj	820133771327b836
+34	1713	6904287247959782	CMakeFiles/shell_projet.dir/main.c.obj	179904f906c77bcc
+256	1827	6904287249345260	CMakeFiles/shell_projet.dir/parser.c.obj	c904ffd4dd8b778e
+405	1970	6904287251326964	CMakeFiles/shell_projet.dir/scanner.c.obj	893eb4e9a9452ad3
